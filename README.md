@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Cristian</h2>
+### Hi there 👋<h2> I'm Juan Sebstián</h2>
 
 
 <h3>  •👦🏻 About Me </h3>
@@ -56,9 +56,9 @@
 
 <p align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianmartinez1700@gmail.com-262626?style=flat-square&logo=gmail"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juansemb23@gmail.com-262626?style=flat-square&logo=gmail"></a>
 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cmartinezbo@unal.edu.co"><img alt="Email" src="https://img.shields.io/badge/Email-cmartinezbo@unal.edu.co-262626?style=flat-square&logo=gmail"></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juartinezbo@unal.edu.co"><img alt="Email" src="https://img.shields.io/badge/Email-cmartinezbo@unal.edu.co-262626?style=flat-square&logo=gmail"></a>
 
 </p>
 
